@@ -243,7 +243,6 @@ impl Engineer {
 </div>
 
 - 📊 **Real-Time ML Pipeline**: Developed LSTM-based time-series forecasting for energy prediction with sub-100ms inference latency on edge devices
-- 🔐 **Secure Federated Learning**: Engineered encrypted MQTT/TLS protocol for privacy-preserving federated learning in smart building environments
 - 📈 **Production Deployment**: Optimized inference pipelines integrated with Grafana dashboards for real-time monitoring
 - 📝 **Research Publication**: Contributed to research published at **MedCCAI 2025**
 
