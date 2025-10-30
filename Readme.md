@@ -1,12 +1,7 @@
 <div align="center">
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rayane%20Aboud&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20Systems%20Engineer%20%7C%20High-Performance%20Systems%20Specialist&descAlignY=51&descAlign=50" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rayane%20Aboud&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20Researcher&descAlignY=51&descAlign=50" alt="header"/>
 </div>
-<h1 align="center">Hi 👋, I'm Rayane Aboud</h1>
-<h3 align="center">A passionate Software & Systems Engineer from Algeria 🇩🇿</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rayane-Aboud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 <div align="center">
 
   
