@@ -13,7 +13,7 @@
   
 ### 🚀 Building High-Performance Systems & Edge AI Solutions
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FAAFF&center=true&vCenter=true&random=false&width=700&lines=Systems+Engineer+%40+Ouedkniss;Edge+AI+%26+MLOps+Specialist;Rust+%7C+C%2B%2B+%7C+Python+Expert;Optimizing+Microservices+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FAAFF&center=true&vCenter=true&random=false&width=700&lines=Systems+Engineer+%40+Ouedkniss;Edge+AI+%26+MLOps;Rust+%7C+C%2B%2B+%7C+Python;Optimizing+Microservices+at+Scale)](https://git.io/typing-svg)
 
 </div>
 
