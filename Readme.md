@@ -1,5 +1,7 @@
 <div align="center">
 
+<h2>بسم الله الرحمن الرحيم</h2>
+
 <!-- Animated Header Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=3FAAFF&center=true&vCenter=true&width=600&height=100&lines=Rayane+Aboud;Software+%26+Systems+Engineer;High-Performance+Systems" alt="Typing SVG" />
 
@@ -406,6 +408,7 @@ impl Engineer {
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
 **⭐ From [Rayane-Aboud](https://github.com/Rayane-Aboud) with 💚 ❤️ 🖤 🤍**
 
