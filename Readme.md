@@ -243,6 +243,7 @@ impl Engineer {
 </div>
 
 - 📊 **Real-Time ML Pipeline**: Developed LSTM-based time-series forecasting for energy prediction with sub-100ms inference latency on edge devices
+- 🔐 **Secure Federated Learning**: Engineered encrypted MQTT/TLS protocol for privacy-preserving federated learning in smart building environments
 - 📈 **Production Deployment**: Optimized inference pipelines integrated with Grafana dashboards for real-time monitoring
 - 📝 **Research Publication**: Contributed to research published at **MedCCAI 2025**
 
@@ -317,30 +318,48 @@ impl Engineer {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Rayane's Expertise))
-    High-Performance Systems
-      Rust Migration
-      Microservices Optimization
-      Performance Profiling
-    Edge AI & MLOps
-      LSTM Time-Series
-      Sub-100ms Inference
-      Production Pipelines
-    Distributed Systems
-      Microservices Architecture
-      Federated Learning
-      MQTT/TLS Protocols
-    Cloud-Native
-      Kubernetes Orchestration
-      Docker Containerization
-      CI/CD Automation
-    Networking
-      TCP/IP
-      OSPF & BGP
-      TLS/Encryption
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 High-Performance Systems
+- **Rust Migration & Optimization**
+- **Microservices Architecture**
+- **Performance Profiling**
+- **Low-Level Optimization**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Edge AI & MLOps
+- **LSTM Time-Series Forecasting**
+- **Sub-100ms Inference**
+- **Production ML Pipelines**
+- **Model Deployment**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Distributed Systems
+- **Microservices Architecture**
+- **Federated Learning**
+- **MQTT/TLS Protocols**
+- **Data Aggregation**
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud-Native & DevOps
+- **Kubernetes Orchestration**
+- **Docker Containerization**
+- **CI/CD Automation**
+- **Infrastructure as Code**
+
+</td>
+</tr>
+</table>
 
 </div>
 
