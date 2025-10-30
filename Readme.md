@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rayane%20Aboud&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Distributed%20Systems%20Researcher&descAlignY=51&descAlign=50" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rayane%20Aboud&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20%26%20Systems%20Engineer%20%7C%20High-Performance%20Systems%20Specialist&descAlignY=51&descAlign=50" alt="header"/>
 
 </div>
 
 <div align="center">
   
-### 🚀 Building High-Performance Systems & Exploring the Future of Computing
+### 🚀 Building High-Performance Systems & Edge AI Solutions
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FAAFF&center=true&vCenter=true&random=false&width=600&lines=State-certified+Computer+Engineer;Backend+Architect+%40+Ouedkniss;Distributed+Systems+Enthusiast;Rust+%7C+Go+%7C+GraphQL+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3FAAFF&center=true&vCenter=true&random=false&width=700&lines=Systems+Engineer+%40+Ouedkniss;Edge+AI+%26+MLOps+Specialist;Rust+%7C+C%2B%2B+%7C+Python+Expert;Optimizing+Microservices+at+Scale)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ### 📬 Let's Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayaneaboud)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayane.aboud@esi.dz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rayaneaboud)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rayane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rayane-aboud-611ab91a5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rayane.aboud02@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rayane-Aboud)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rayane_aboud)
 
 </div>
 
@@ -39,29 +39,30 @@ struct Engineer {
     company: &'static str,
     education: &'static str,
     location: &'static str,
-    interests: Vec<&'static str>,
-    currently_learning: Vec<&'static str>,
+    specialization: Vec<&'static str>,
+    achievements: Vec<&'static str>,
 }
 
 impl Engineer {
     fn new() -> Self {
         Self {
             name: "Rayane Aboud",
-            role: "Software Engineering Engineer",
+            role: "Software & Systems Engineer",
             company: "Ouedkniss - Algeria's Leading Classifieds Platform",
-            education: "ESI Algiers - National School of Computer Science",
+            education: "ESI Algiers - State Engineer & Master 2 (GPA: 3.7/4.0)",
             location: "Algiers, Algeria",
-            interests: vec![
+            specialization: vec![
+                "High-Performance Systems",
+                "Edge AI & MLOps",
                 "Distributed Systems",
-                "Edge Computing",
-                "Federated Learning",
-                "Cybersecurity",
-                "Low-Level Optimization"
+                "Performance Optimization",
+                "Cloud-Native Technologies"
             ],
-            currently_learning: vec![
-                "Ring Algebra for Encoding/Decoding",
-                "Data Security Models",
-                "Performance Engineering"
+            achievements: vec![
+                "Migrated core services to Rust - reduced latency & improved throughput",
+                "Consolidated 40 microservices to 8 pods - maintained 99.9% availability",
+                "Built LSTM pipeline with sub-100ms inference on edge devices",
+                "Published research at MedCCAI 2025"
             ],
         }
     }
@@ -74,7 +75,7 @@ impl Engineer {
 
 <div align="center">
 
-### 💻 Core Languages & Frameworks
+### 💻 Core Languages
 
 <table>
 <tr>
@@ -83,24 +84,47 @@ impl Engineer {
         <br>Rust
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+        <br>C/C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+        <br>Python
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
         <br>Go
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-        <br>GraphQL
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+        <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+        <br>TypeScript
+    </td>
+</tr>
+</table>
+
+### 🤖 Machine Learning & AI
+
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+        <br>PyTorch
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-        <br>NestJS
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
+        <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
+        <br>Computer Vision
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+        <br>Scikit-learn
     </td>
 </tr>
 </table>
@@ -110,36 +134,32 @@ impl Engineer {
 <table>
 <tr>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
         <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <br>MongoDB
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
         <br>Redis
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
+        <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Kafka" />
+        <br>Kafka
     </td>
 </tr>
 </table>
 
-### 🚀 Frontend & DevOps
+### 🚀 DevOps & Cloud
 
 <table>
 <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue
-    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
         <br>Docker
@@ -149,12 +169,39 @@ impl Engineer {
         <br>Kubernetes
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+        <br>Linux
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
         <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
+        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+        <br>Grafana
+    </td>
+</tr>
+</table>
+
+### 🔧 Frameworks & Tools
+
+<table>
+<tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+        <br>FastAPI
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+        <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tauri" width="48" height="48" alt="Tauri" />
+        <br>Tauri
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
+        <br>NestJS
     </td>
 </tr>
 </table>
@@ -163,16 +210,64 @@ impl Engineer {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 💼 Professional Experience
+
+<div align="center">
+
+### 🏢 Ouedkniss | Software Engineer (Systems & Performance)
+**2023 - Present** | Algiers, Algeria
+
+</div>
+
+- ⚡ **Performance Optimization**: Migrated core services from PHP to Rust, dramatically reducing system latency and improving throughput for millions of daily active users
+- 🏗️ **Infrastructure Consolidation**: Reduced microservice footprint from 40 to 8 pods through strategic profiling and optimization, maintaining 99.9% availability while cutting cloud costs
+- 🔄 **Caching & Prediction**: Designed asynchronous caching algorithms and predictive models to enhance user experience and system responsiveness
+- 🛠️ **Developer Tooling**: Built a Service Supervision Tool using Rust + Tauri — a desktop application for simplified service management with real-time log visualization and environment configuration management
+
+<div align="center">
+
+### 🤖 Namla | MLOps & Edge Computing Intern
+**2022 - 2023** | Algiers, Algeria
+
+</div>
+
+- 📊 **Real-Time ML Pipeline**: Developed LSTM-based time-series forecasting for energy prediction with sub-100ms inference latency on edge devices
+- 🔐 **Secure Federated Learning**: Engineered encrypted MQTT/TLS protocol for privacy-preserving federated learning in smart building environments
+- 📈 **Production Deployment**: Optimized inference pipelines integrated with Grafana dashboards for real-time monitoring
+- 📝 **Research Publication**: Contributed to research published at **MedCCAI 2025**
+
+<div align="center">
+
+### 🌐 ENNA | Network Engineering Intern
+**2021 - 2022** | Algiers, Algeria
+
+</div>
+
+- 🔌 Configured enterprise routing protocols (OSPF, BGP) and VLANs for large-scale network infrastructure
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 Featured Projects
+
+### 🌾 Aircrop: AI-Powered Crop Analysis SaaS
+**Tech Stack**: Python | TensorFlow | FastAPI | React | Docker | YOLO
+
+- Built end-to-end SaaS platform processing agricultural drone imagery for real-time crop health analytics
+- Deployed custom YOLO models for disease detection, pest identification, and nutrient deficiency analysis
+- Orchestrated scalable backend with FastAPI and containerized deployment
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rayaneaboud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FAAFF&icon_color=3FAAFF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rayaneaboud&theme=tokyonight&hide_border=true&background=0D1117&ring=3FAAFF&fire=3FAAFF&currStreakLabel=3FAAFF" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rayane-Aboud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FAAFF&icon_color=3FAAFF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rayane-Aboud&theme=tokyonight&hide_border=true&background=0D1117&ring=3FAAFF&fire=3FAAFF&currStreakLabel=3FAAFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaneaboud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FAAFF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayaneaboud&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3FAAFF&line=3FAAFF&point=FFFFFF" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane-Aboud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3FAAFF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rayane-Aboud&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3FAAFF&line=3FAAFF&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -180,38 +275,61 @@ impl Engineer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayaneaboud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rayane-Aboud&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Research & Interests
+## 🎓 Education & Certifications
+
+<div align="center">
+
+### 🏫 École Nationale Supérieure d'Informatique (ESI)
+**State Engineer & Master 2 in Computer Science** | 2019 - 2024  
+**GPA**: 16.27/20 (~3.7/4.0)
+
+**Thesis**: Edge AI system for optimizing energy consumption in smart buildings
+
+**Relevant Coursework**: Distributed Systems | Machine Learning | Computer Networks | Software Engineering
+
+---
+
+### 📜 Certifications
+
+🎓 **Deep Learning Specialization** - Andrew Ng  
+🎓 **IBM Data Engineering Basics** - IBM
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🔬 Research & Specializations
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((Rayane's Tech Universe))
+  root((Rayane's Expertise))
+    High-Performance Systems
+      Rust Migration
+      Microservices Optimization
+      Performance Profiling
+    Edge AI & MLOps
+      LSTM Time-Series
+      Sub-100ms Inference
+      Production Pipelines
     Distributed Systems
-      Consensus Protocols
-      Microservices
-      Service Mesh
-    Edge Computing
-      IoT Integration
-      Latency Optimization
-      Resource Management
-    Federated Learning
-      Privacy-Preserving ML
-      Decentralized Training
-      Model Aggregation
-    Cybersecurity
-      Secure Architecture
-      Encryption Schemes
-      Threat Modeling
-    Performance Engineering
-      Low-Level Optimization
-      Ring Algebra
-      Data Security Models
+      Microservices Architecture
+      Federated Learning
+      MQTT/TLS Protocols
+    Cloud-Native
+      Kubernetes Orchestration
+      Docker Containerization
+      CI/CD Automation
+    Networking
+      TCP/IP
+      OSPF & BGP
+      TLS/Encryption
 ```
 
 </div>
@@ -222,12 +340,26 @@ mindmap
 
 <div align="center">
 
-| 🔥 Domain | 📚 Learning | 🛠️ Building |
+| 💡 Area | 🔬 Research | 🛠️ Building |
 |:---:|:---:|:---:|
-| **Distributed Systems** | Advanced consensus algorithms | High-throughput message queues |
-| **Edge Computing** | Resource-constrained optimization | IoT data processing pipelines |
-| **Federated Learning** | Privacy-preserving techniques | Decentralized ML frameworks |
-| **Backend Architecture** | Ring algebra applications | Secure, scalable APIs |
+| **Systems Performance** | Low-level optimization & profiling | High-throughput services in Rust |
+| **Edge AI** | Model compression & quantization | Real-time inference pipelines |
+| **MLOps** | Federated learning frameworks | Secure data aggregation systems |
+| **Cloud Infrastructure** | Kubernetes optimization | Scalable microservices architecture |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌍 Languages
+
+<div align="center">
+
+| Language | Proficiency |
+|:---:|:---:|
+| 🇩🇿 **Arabic** | Native |
+| 🇬🇧 **English** | Professional Proficiency |
+| 🇫🇷 **French** | Professional Proficiency (C1) |
 
 </div>
 
@@ -241,11 +373,11 @@ mindmap
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/rayaneaboud/rayaneaboud/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Rayane-Aboud/Rayane-Aboud/output/github-contribution-grid-snake-dark.svg)
 
 ### 👀 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=rayaneaboud&label=Profile%20Views&color=3FAAFF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Rayane-Aboud&label=Profile%20Views&color=3FAAFF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -255,6 +387,8 @@ mindmap
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
-**⭐ From [rayaneaboud](https://github.com/rayaneaboud) with 💙**
+**⭐ From [Rayane-Aboud](https://github.com/Rayane-Aboud) with 💙**
+
+*"Optimizing systems one microsecond at a time"*
 
 </div>
