@@ -1,12 +1,22 @@
 <div align="center">
+
 <!-- Animated Header Banner -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=3FAAFF&center=true&vCenter=true&width=600&height=100&lines=Rayane+Aboud;Software+%26+Systems+Engineer;High-Performance+Systems" alt="Typing SVG" />
+
 </div>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
-<h1 align="center">
 
+<h1 align="center">Hi 👋, I'm Rayane Aboud</h1>
+<h3 align="center">A passionate Software & Systems Engineer from Algeria 🇩🇿</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rayane-Aboud&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<div align="center">
   
 ### 🚀 Building High-Performance Systems & Edge AI Solutions
 
@@ -221,7 +231,7 @@ impl Engineer {
 </div>
 
 - ⚡ **Performance Optimization**: Migrated core services from PHP to Rust, dramatically reducing system latency and improving throughput for millions of daily active users
-- 🏗️ **Infrastructure Consolidation**: Reduced microservice footprint from 40 to 8 pods through strategic profiling and optimization, maintaining 99.9% availability while cutting cloud costs
+- 🏗️ **Infrastructure Consolidation**: Reduced microservice footprint by 80% (40→8 pods) through strategic profiling and optimization, maintaining 99.9% availability while cutting cloud costs
 - 🔄 **Caching & Prediction**: Designed asynchronous caching algorithms and predictive models to enhance user experience and system responsiveness
 - 🛠️ **Developer Tooling**: Built a Service Supervision Tool using Rust + Tauri — a desktop application for simplified service management with real-time log visualization and environment configuration management
 
