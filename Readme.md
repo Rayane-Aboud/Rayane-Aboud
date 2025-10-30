@@ -396,14 +396,6 @@ impl Engineer {
 
 <div align="center">
 
-### 💭 Developer Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Rayane-Aboud/Rayane-Aboud/output/github-contribution-grid-snake-dark.svg)
-
 ### 👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=Rayane-Aboud&label=Profile%20Views&color=3FAAFF&style=for-the-badge" alt="Profile Views" />
@@ -414,9 +406,8 @@ impl Engineer {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
 
-**⭐ From [Rayane-Aboud](https://github.com/Rayane-Aboud) with 💙**
+**⭐ From [Rayane-Aboud](https://github.com/Rayane-Aboud) with 💚 ❤️ 🖤 🤍**
 
 *"Optimizing systems one microsecond at a time"*
 
