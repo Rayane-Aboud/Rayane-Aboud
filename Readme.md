@@ -219,7 +219,7 @@ impl Engineer {
 <div align="center">
 
 ### 🏢 Ouedkniss | Software Engineer (Systems & Performance)
-**2023 - Present** | Algiers, Algeria
+**2024 - Present** | Algiers, Algeria
 
 </div>
 
@@ -231,7 +231,7 @@ impl Engineer {
 <div align="center">
 
 ### 🤖 Namla | MLOps & Edge Computing Intern
-**2022 - 2023** | Algiers, Algeria
+**2023 - 2024** | Algiers, Algeria
 
 </div>
 
@@ -243,7 +243,7 @@ impl Engineer {
 <div align="center">
 
 ### 🌐 ENNA | Network Engineering Intern
-**2021 - 2022** | Algiers, Algeria
+**2022** | Algiers, Algeria
 
 </div>
 
