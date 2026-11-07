@@ -32,7 +32,7 @@ Two years of production work across a consumer marketplace, a government platfor
   migrated Java 8 / JSP to Java 17, Spring and React with no downtime; redesigned 40+ REST endpoints (RFC 9457 errors).
 - **Namla**, edge cloud platform: LSTM energy forecasting (R² 0.93 to 0.99) with a full MLOps pipeline
   (cloud training, edge inference, automatic retraining); edge-to-cloud design with **-68% latency**, **-90% data sent**.
-- **Aircrop**, agri-tech (freelance): FastAPI backend chaining a crop-disease model and an LLM health report;
+- **Aircrop**, agri-tech (freelance): Django backend chaining a crop-disease model and an LLM health report;
   the POC helped the startup earn its label.
 - **Publication**: [Edge AI System for Optimizing Energy Consumption for Smart Buildings](https://www.researchgate.net/publication/392071334_Edge_AI_system_for_optimizing_energy_consumption_for_smart_buildings), MedCCAI 2025 (co-author).
 
@@ -42,14 +42,14 @@ Two years of production work across a consumer marketplace, a government platfor
 
 | Repo | Description | Stack |
 |------|-------------|-------|
+| [FacadeLang](https://github.com/Rayane-Aboud/facade-lang) ([live](https://rayaneaboud.dev/facade-lang/)) | Typed DSL for building design: unit and kind checking turns a swapped parameter into a compile-time error. Parser, type checker, WASM playground with 3D preview, VS Code extension | Rust, WebAssembly |
+| [Aircrop](https://github.com/Rayane-Aboud/aircrop) | Crop health from one photo: YOLO verdict, weather and GPS context, LLM-written agronomic report, PDF. Deployed on Kubernetes | Python, Django, YOLO, Gemini, React, K8s |
+| [Edge-to-cloud smart metering](https://github.com/Rayane-Aboud/microservices) | Namla internship: IoT energy data over MQTT/Kafka, encrypted edge-to-cloud sync over NATS, MLflow training, edge inference (MedCCAI 2025) | NestJS, Python, PyTorch, Kafka, NATS, InfluxDB |
 | [Distributed Nodes](https://github.com/Rayane-Aboud/distributed-nodes) | Supervisor/worker cluster over raw TCP with a custom handshake for node discovery | Rust |
-| [Microservices](https://github.com/Rayane-Aboud/microservices) | Edge-to-cloud microservices for energy forecasting (Namla) | Python, Docker, MQTT |
-| [AES with Parallelization](https://github.com/Rayane-Aboud/aes_encrypt_with_parallelization) | AES encryption using parallel computing | C |
-| [MPI Introduction](https://github.com/Rayane-Aboud/MPI-Introduction) | Parallel algorithm exercises (MPI, OpenMP) | C |
-| [Tabu Search, Bin Packing](https://github.com/Rayane-Aboud/tabu-search-bin-packing-cpp) | Metaheuristic solution to the bin packing problem | C++ |
-| [Irrigation System](https://github.com/Rayane-Aboud/Irrigation_system) | Embedded irrigation control system | C++ |
-| [Basic Matrix Library](https://github.com/Rayane-Aboud/Basic-matrix-library-using-c-) | Lightweight matrix operations library | C++ |
-| [DigiShop](https://github.com/Rayane-Aboud/DigiShop) | E-commerce app with ChatGPT integration | HTML/JS |
+| [Sho3la](https://github.com/Rayane-Aboud/neural-networks-cpp) | Neural network library from scratch: tensors, dense layers, ReLU, Softmax | C++ |
+| [AES-CTR with OpenMP](https://github.com/Rayane-Aboud/aes_encrypt_with_parallelization) | AES-128 by hand, counter mode parallelised across cores | C, OpenMP |
+
+<sub>Coursework: [MPI exercises](https://github.com/Rayane-Aboud/MPI-Introduction) · [tabu search for bin packing](https://github.com/Rayane-Aboud/tabu-search-bin-packing-cpp) · [matrix library](https://github.com/Rayane-Aboud/Basic-matrix-library-using-c-) · [smart irrigation (Arduino)](https://github.com/Rayane-Aboud/Irrigation_system) · [DigiShop (Flask e-commerce, team project)](https://github.com/Rayane-Aboud/DigiShop)</sub>
 
 ---
 
